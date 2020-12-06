@@ -55,9 +55,10 @@ img {
 		margin: auto;
 		display: block;
 }
-#title {
+#firstLine {
     text-align: center;
-    font-size: 3em;
+    font-size: 20px;
+    color: blue;
 }
 .labels {
     font-style: italic;
